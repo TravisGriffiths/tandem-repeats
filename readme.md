@@ -8,9 +8,9 @@ DNA is a molecule with 4 proteins represented by the letters 'A', 'C', 'G', 'T'
 In data, this effectively makes a string with an alphabet of these 4 letters only.
 When the letters repeat in a substring pattern, this is called a Tandem Repeat.
 
-EXAMPLES:  
-GAGGCATCATCATCATCATTGCC   Substring 'CAT' repeated 5 times (not substring 'CATCAT')
-CATGGCAAGGCAAGGCAATTCGG   Substring 'GGCAA' repeated twice.
+**EXAMPLES:**  
+GAGG*CATCATCATCATCAT*TGCC   Substring 'CAT' repeated 5 times (not substring 'CATCAT')
+CAT*GGCAAGGCAAGGCAA*TTCGG   Substring 'GGCAA' repeated three times.
 
 It is important to know the following rules:
 1) Substrings are only interesting if they are of size 3-10
