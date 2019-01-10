@@ -9,8 +9,8 @@ In data, this effectively makes a string with an alphabet of these 4 letters onl
 When the letters repeat in a substring pattern, this is called a Tandem Repeat.
 
 **EXAMPLES:**  
-GAGG**CATCATCATCATCAT**TGCC   Substring 'CAT' repeated 5 times (not substring 'CATCAT')
-CAT**GGCAAGGCAAGGCAA**TTCGG   Substring 'GGCAA' repeated three times.
+1. GAGG**CATCATCATCATCAT**TGCC   *Substring 'CAT' repeated 5 times (not substring 'CATCAT')*
+2. CAT**GGCAAGGCAAGGCAA**TTCGG   *Substring 'GGCAA' repeated three times.*
 
 It is important to know the following rules:
 1) Substrings are only interesting if they are of size 3-10
