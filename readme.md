@@ -3,7 +3,7 @@ to do this**. Many methods and algorithms will work. Some faster than others.
 
 Tandem Repeat: https://en.wikipedia.org/wiki/Tandem_repeat
 
-DNA is a molecule with 4 proteins represented by the letters 'A', 'C', 'G', 'T'
+DNA is a molecule with 4 nucleotides represented by the letters 'A', 'C', 'G', 'T'
 
 In data, this effectively makes a string with an alphabet of these 4 letters only.
 When the letters repeat in a substring pattern, this is called a Tandem Repeat.
